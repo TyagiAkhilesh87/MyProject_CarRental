@@ -9,7 +9,7 @@
     
     ------- Thanks for Trying Application -------
   
-##  Using This Application In Your Device Requiremt are ## 
+##  Using This Application In Your Device Requirement are ## 
     1 - Greater Than Android Version 4.1 
     2 - Ram Atleast 2GB 
     
