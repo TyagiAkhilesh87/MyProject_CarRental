@@ -21,12 +21,14 @@
 ----------------------------------------------------------------
 
  ## Purpose ## 
-  ~ Made this Application for skill and Mainly for project 
-  ~# Application Pros / Cons :
-  Pros -
+    ~ Made this Application for skill and Mainly for project 
+  
+    ~Application Pros / Cons :
+         
+        Pros -
                         Smoothly Perfom CURD (Create Read Update Delete ) Operation.
                         
-  cons - 
+        cons - 
                         Crashing Automatically 
                          page Intend Does'nt work Well. 
                          
